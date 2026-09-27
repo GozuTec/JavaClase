@@ -17,7 +17,7 @@ public class Clase {
         int num1=1;
         int num2=2;
         int sum=num1+num2;
-        System.out.println(sum);
+        System.out.println("La suma es :" + sum);
     }
     
 }
